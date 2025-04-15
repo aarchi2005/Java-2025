@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;// using switch case 
 public class calculator {
 
     public static void main(String[] args) {
@@ -14,11 +14,11 @@ public class calculator {
 
         switch (c) {
             case '+':
-            System.err.println(a+b);
+            System.out.println(a+b);
                 
                 break;
                 case '-':
-                System.err.println(a-b);
+                System.out.println(a-b);
                 break;
                 case '*':
                 System.out. println(a*b);

@@ -1,4 +1,4 @@
-public class swapin {
+public class swap {
     public static void main(String[] args) {
         
         int a=23;
@@ -10,6 +10,6 @@ public class swapin {
         System.out.println(a);
         System.out.println(b);
 
-
+// using temp
     }
 }

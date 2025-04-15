@@ -9,5 +9,5 @@ public class swaping {
         System.out.println(a);
         System.out.println(b);
     }
-    
+    // without temporary variable 
 }
