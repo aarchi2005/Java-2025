@@ -5,7 +5,7 @@ public class basic {
         
         int fact =1;
         for (int i =1; i<=n ;i++){
-fact =fact *i;
+fact =fact *i;  
         }
         System.out.println("factorial of 5 is :" + fact);
     
