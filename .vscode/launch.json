@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hash",
+            "request": "launch",
+            "mainClass": "hash",
+            "projectName": "Java 2025_6415f038"
+        },
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "hashmap",
+            "projectName": "Java 2025_6415f038"
+        },
+        {
+            "type": "java",
             "name": "arry",
             "request": "launch",
             "mainClass": "arry",
