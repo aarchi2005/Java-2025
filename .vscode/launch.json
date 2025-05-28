@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hashm",
+            "request": "launch",
+            "mainClass": "hashm",
+            "projectName": "Java 2025_6415f038"
+        },
+        {
+            "type": "java",
             "name": "hash",
             "request": "launch",
             "mainClass": "hash",
