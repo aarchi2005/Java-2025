@@ -6,7 +6,6 @@ public class threa {
             try {
                 Thread.sleep(2000);  
             } catch (Exception e) {
-                // TODO: handle exception
             }
             System.out.println("how are you ...");
         });
@@ -16,7 +15,5 @@ Thread t2 = new Thread(()->{
 });
 t1.start();
 t2.start();
-
-
     }
 }
