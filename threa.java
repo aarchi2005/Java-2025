@@ -4,10 +4,11 @@ public class threa {
         Thread t1 = new Thread(()->{
             System.out.println("helllo");
             try {
-                System.out.println("how are you ");
+                Thread.sleep(2000);  
             } catch (Exception e) {
                 // TODO: handle exception
             }
+            System.out.println("how are you ...");
         });
         
 Thread t2 = new Thread(()->{
