@@ -13,4 +13,4 @@ public class hashmap {
         map.remove("ido");
         System.out.println(map);
 }    }
-}
+

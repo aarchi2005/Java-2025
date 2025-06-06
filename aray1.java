@@ -15,7 +15,7 @@ totalcount++;
 
 
        
-       System.out.println(arr1);
+       System.out.println(arr);
        }
     }
     }
