@@ -1,6 +1,6 @@
-class myThread extends Thread{
+class MyThread extends Thread{
     public void  run(){
-        for(int i=1; i<10; i++){
+        for(int i=1; i<=4; i++){
             System.out.println(getName() + " priority ");
             Thread.yield();
 
