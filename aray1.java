@@ -6,20 +6,14 @@ public class aray1 {
         for(int i=0; i<arr.length ; i++)
 { 
     totalcount = totalcount+arr[i].length;
- 
  System.out.println(totalcount);
 totalcount++;
-    
-
-       for (int j=0; j< arr[i].length; j++){
-
-
-       
+       for (int j=0; j< arr[i].length; j++)
        System.out.println(arr);
        }
     }
-    }
-}
+ }
+ 
 
 
 
